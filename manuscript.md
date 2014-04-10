@@ -112,6 +112,8 @@ Classes are interpreted as sets that contain individuals (Table 1). They are des
 
 **Table 1:** Relationship between a subclass and one of its properties.
 
+**Attention: No linked file for Table 1.**
+
 ![Table 1: Relationship between a subclass and one of its properties.][table1]
 
 Second step of the ontology development is formalization. In this step a conceptual map is created by a reasoner with a grammar structure (Figure 7).
@@ -121,6 +123,8 @@ Second step of the ontology development is formalization. In this step a concept
 Finally, in application and visualization step which is the last step of development, OWL (or RDF) is used for coding related conceptual map to an ontology (Table 2). Visualization of SC is a part of this step and it contains all respected layers in one unified architecture. It can be a 2D graph (Figure 8a) to represent the chain or a 3D interactive structure (Figure 8b). 
 
 **Table 2:** Generic ontology application with OWL
+
+**Attention: No linked file for Table 2.**
 
 ![Table 2: Relationship between a subclass and one of its properties.][table2]
 
