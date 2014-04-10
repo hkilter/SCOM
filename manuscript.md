@@ -126,11 +126,15 @@ Finally, in application and visualization step which is the last step of develop
 
 ### 3.4. Mapping a Supply Chain
 
+**Attention: No linked file for Figure 8.**
+
 ![Figure 8: (a) 2D and (b) 3D representation of a SC network.][fig8]
 
 ## 4. Case Study
 
 Description of the case study ... 
+
+**Attention: No linked file for Figure 9.**
 
 ![Figure 9: Representation of the main product for the case study.][fig9]
 
